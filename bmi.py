@@ -12,4 +12,4 @@ def bmi(height, weight):
         print(bmi)
         print("underweight")
 
-bmi(height=20, weight=73)
+bmi(height=1.7, weight=73)
