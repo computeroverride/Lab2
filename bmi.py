@@ -6,5 +6,6 @@ def calculate_bmi(height, weight):
         return 0
     else:
         return -1
+
 def bmi(height, weight):
     return calculate_bmi(height, weight)
